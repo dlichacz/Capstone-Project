@@ -1,0 +1,9 @@
+[1] "Welch t-test p-value for E is 4.14462441115316e-13"
+[1] "Welch t-test p-value for A is 1.31079577775197e-192"
+[1] "Welch t-test p-value for C is 5.80087184300504e-05"
+[1] "Welch t-test p-value for N is 1.25319047349114e-121"
+[1] "Welch t-test p-value for O is 1.18798882114686e-46"
+
+[1] "Welch t-test p-value for Extreme is 1.30949193046081e-06"
+[1] "Welch t-test p-value for Moderate is 1.4418147596503e-25"
+[1] "Welch t-test p-value for Neutral is 4.77453851127542e-11"

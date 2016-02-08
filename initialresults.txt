@@ -1,0 +1,134 @@
+kNN:
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Male Female
+    Male    660    651
+    Female  841   1770
+                                          
+               Accuracy : 0.6196          
+                 95% CI : (0.6042, 0.6348)
+    No Information Rate : 0.6173          
+    P-Value [Acc > NIR] : 0.3905          
+                                          
+                  Kappa : 0.175           
+ Mcnemar's Test P-Value : 9.93e-07        
+                                          
+            Sensitivity : 0.4397          
+            Specificity : 0.7311          
+         Pos Pred Value : 0.5034          
+         Neg Pred Value : 0.6779          
+             Prevalence : 0.3827          
+         Detection Rate : 0.1683          
+   Detection Prevalence : 0.3343          
+      Balanced Accuracy : 0.5854          
+                                          
+       'Positive' Class : Male         
+
+Naive Bayes:
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Male Female
+    Male    795    631
+    Female  706   1790
+                                         
+               Accuracy : 0.6591         
+                 95% CI : (0.644, 0.6739)
+    No Information Rate : 0.6173         
+    P-Value [Acc > NIR] : 3.132e-08      
+                                         
+                  Kappa : 0.2716         
+ Mcnemar's Test P-Value : 0.04299        
+                                         
+            Sensitivity : 0.5296         
+            Specificity : 0.7394         
+         Pos Pred Value : 0.5575         
+         Neg Pred Value : 0.7171         
+             Prevalence : 0.3827         
+         Detection Rate : 0.2027         
+   Detection Prevalence : 0.3636         
+      Balanced Accuracy : 0.6345         
+                                         
+       'Positive' Class : Male  
+
+Logistic Regression:
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Male Female
+    Male    698    435
+    Female  803   1986
+                                          
+               Accuracy : 0.6843          
+                 95% CI : (0.6695, 0.6989)
+    No Information Rate : 0.6173          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.2993          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.4650          
+            Specificity : 0.8203          
+         Pos Pred Value : 0.6161          
+         Neg Pred Value : 0.7121          
+             Prevalence : 0.3827          
+         Detection Rate : 0.1780          
+   Detection Prevalence : 0.2889          
+      Balanced Accuracy : 0.6427          
+                                          
+       'Positive' Class : Male  
+
+Random Forest:
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Male Female
+    Male    607    363
+    Female  894   2058
+                                          
+               Accuracy : 0.6795          
+                 95% CI : (0.6646, 0.6941)
+    No Information Rate : 0.6173          
+    P-Value [Acc > NIR] : 2.884e-16       
+                                          
+                  Kappa : 0.2728          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.4044          
+            Specificity : 0.8501          
+         Pos Pred Value : 0.6258          
+         Neg Pred Value : 0.6972          
+             Prevalence : 0.3827          
+         Detection Rate : 0.1548          
+   Detection Prevalence : 0.2473          
+      Balanced Accuracy : 0.6272          
+                                          
+       'Positive' Class : Male  
+
+AdaBoost:
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  Male Female
+    Male    3635   1930
+    Female  3984  10066
+                                         
+               Accuracy : 0.6985         
+                 95% CI : (0.692, 0.7049)
+    No Information Rate : 0.6116         
+    P-Value [Acc > NIR] : < 2.2e-16      
+                                         
+                  Kappa : 0.3326         
+ Mcnemar's Test P-Value : < 2.2e-16      
+                                         
+            Sensitivity : 0.4771         
+            Specificity : 0.8391         
+         Pos Pred Value : 0.6532         
+         Neg Pred Value : 0.7164         
+             Prevalence : 0.3884         
+         Detection Rate : 0.1853         
+   Detection Prevalence : 0.2837         
+      Balanced Accuracy : 0.6581         
+                                         
+       'Positive' Class : Male  

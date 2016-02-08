@@ -1,0 +1,9 @@
+[1] "F-test p-value for E is 0.499994892101331"
+[1] "F-test p-value for A is 1.33226762955019e-15"
+[1] "F-test p-value for C is 0.00452440036206349"
+[1] "F-test p-value for N is 0.0349024936094859"
+[1] "F-test p-value for O is 0.000201662409570332"
+
+[1] "F-test p-value for Extreme is 3.17042703201764e-09"
+[1] "F-test p-value for Moderate is 3.66326924350346e-08"
+[1] "F-test p-value for Neutral is 0.115879155555807"
